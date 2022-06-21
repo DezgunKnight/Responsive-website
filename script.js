@@ -5,5 +5,3 @@ toggleButton.addEventListener('click', function() {
     navigationItem.classList.toggle('activeNavigation');
     toggleButton.classList.toggle('active');
 })
-
-
